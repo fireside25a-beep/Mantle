@@ -1,4 +1,4 @@
-# MANTLE
+# MANTLE-S.U.R.E.A.L.
 
 <p align="left">
   <img alt="Local only" src="https://img.shields.io/badge/runtime-local--only-1f883d?style=for-the-badge">
